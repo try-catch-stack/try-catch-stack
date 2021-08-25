@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Danish</h1>
-<h3 align="center">A passionate programmer and a full stack developer from India , currently an engineering student at IIT BHU.</h3>
+<h3 align="center">A passionate programmer and a full stack developer from India . I am currently pursuing my engineering sfrom IIT BHU and I love to explore new technologies and work with them.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=try-catch-stack&label=Profile%20views&color=0e75b6&style=flat" alt="try-catch-stack" /> </p>
 
