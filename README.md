@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Danish</h1>
 <h3 align="center">A passionate programmer and a full stack developer from India . I am currently pursuing my engineering from IIT BHU . I am a tech enthusiast and  love to explore new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=try-catch-stack&label=Profile%20views&color=0e75b6&style=flat" alt="try-catch-stack" /> </p>
-
 <h2 align="center">Languages and Tools:</h3>
 <p align="center">
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -31,3 +29,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=try-catch-stack&" alt="try-catch-stack" /></p>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=try-catch-stack&label=Profile%20views&color=0e75b6&style=flat" alt="try-catch-stack" /></p>
