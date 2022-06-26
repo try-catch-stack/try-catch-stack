@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋!, I'm Danish</h1>
-<h3 align="center">I am currently an Engineering student at IIT BHU. I have a keen interest in cross platform app development, Web3, PWAs and other Computer Science domains. I always strive to learn new skills and explore new technologies. Feel free to contact me on any of the below platforms :)</h3>
+<h1 align="center">Hey there 👋!</h1>
+<h3 align="center">I'm Danish, currently an Engineering student at IIT BHU. I have a keen interest in cross platform app development, Web3, Open-souce and other Computer Science domains. I always strive to hone my skills and explore new technologies. Feel free to contact me on any of the below platforms :)</h3>
 
 <h2 align="center">Languages and Tools:</h3>
 <p align="center">
