@@ -28,8 +28,6 @@
 <a href="https://instagram.com/dan1sh_m1rza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dan1sh_m1rza" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=try-catch-stack&show_icons=true&theme=algolia" alt="try-catch-stack" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=try-catch-stack&" alt="try-catch-stack" /></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=try-catch-stack&label=Profile%20views&color=0e75b6&style=flat" alt="try-catch-stack" /></p>
