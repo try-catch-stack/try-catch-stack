@@ -1,8 +1,9 @@
 <h1 align="center">Hey there 👋!</h1>
-<h3 align="center">I'm Danish, currently an Engineering student at IIT BHU. I have a keen interest in cross-platform app development, Web3, Open-source, and other Computer Science domains. I always strive to hone my skills and explore new technologies. Feel free to contact with me on any of the platforms below :)</h3>
+<h3 align="center">I'm Danish, currently an Engineering student at IIT BHU. I have a keen interest in cross-platform app development, Web3, Open-source, cloud computing and other Computer Science domains. I am also a certified AWS Solutions Architect and have experience in deploying and managing highly available, secure, and scalable solutions using various AWS services. I always strive to hone my skills and explore new technologies. Feel free to contact with me on any of the platforms below :)</h3>
 
 <h2 align="center">Languages and Tools:</h3>
 <p align="center">
+  <a href="https://www.aws.amazon.com target="_blank"> <img src="https://skillicons.dev/icons?i=aws" /> </a> 
   <a href="https://reactjs.org" target="_blank">  <img src="https://skillicons.dev/icons?i=react" /> </a>
  <a href="https://reactnative.dev/" target="_blank">  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="45" width="40" /> </a>
   <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://skillicons.dev/icons?i=ts" /> </a> 
