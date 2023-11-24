@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋!</h1>
-<h3 align="center">I'm Danish, currently an Engineering student at IIT BHU. I have a keen interest in cross-platform app development, Web3, Open-source, cloud computing and other Computer Science domains. I am also a certified AWS Solutions Architect and have experience in deploying and managing highly available, secure, and scalable solutions using various AWS services. I always strive to hone my skills and explore new technologies. Feel free to contact with me on any of the platforms below :)</h3>
+<h3 align="center">I'm Danish, currently an engineering student at IIT BHU. My fascination lies in cross-platform app development, Web3, open-source, and the vast realm of computer science.  Holding a certification as an AWS Solutions Architect, I've gained experience in deploying and managing robust, secure, and scalable solutions using various AWS services. I'm eager to connect with like-minded individuals — Let's connect :)</h3>
 
 <h2 align="center">Languages and Tools:</h3>
 <p align="center">
